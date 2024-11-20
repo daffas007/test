@@ -1,0 +1,356 @@
+[Pass/Fail/Blocked]
+„ChatGPT“ pasakė:
+ChatGPT
+Functionalities of https://todolist.james.am/
+After analyzing the provided site and similar task managers, the following functionalities are likely included:
+
+Adding a New Task
+Users can add tasks to their to-do list.
+Editing a Task
+Users can update the title or description of an existing task.
+Marking Tasks as Complete/Incomplete
+Users can toggle between completed and incomplete states for tasks.
+Deleting a Task
+Users can delete a task from the list.
+Reordering Tasks
+Users can drag and drop tasks to reorder them.
+Persisting Data Locally
+Task data persists across sessions via local storage.
+Clear All Tasks
+Users can clear all tasks in one action.
+Test Cases for Each Functionality
+Test Case 1: Adding a New Task
+Test Case ID: TC01
+Title: Verify that a new task can be added to the list.
+
+Description: Ensure the user can add a task to the to-do list.
+
+Preconditions:
+
+The to-do list is open in a supported browser.
+Steps to Execute:
+
+Enter text into the "Add task" input field.
+Press "Enter" or click the "Add" button.
+Expected Result:
+The task appears in the to-do list.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+Test Case 2: Editing a Task
+Test Case ID: TC02
+Title: Verify that an existing task can be edited.
+
+Description: Ensure that users can update the content of a task.
+
+Preconditions:
+
+At least one task is added to the list.
+Steps to Execute:
+
+Double-click on a task in the list.
+Modify the task's text.
+Press "Enter" or click outside the input field to save changes.
+Expected Result:
+The task is updated with the new text.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+Test Case 3: Marking Tasks as Complete/Incomplete
+Test Case ID: TC03
+Title: Verify that tasks can be marked as complete or incomplete.
+
+Description: Ensure users can toggle the completion status of tasks.
+
+Preconditions:
+
+At least one task is present in the list.
+Steps to Execute:
+
+Click the checkbox next to a task.
+Observe that the task is marked as complete (e.g., with a strikethrough).
+Click the checkbox again to mark it as incomplete.
+Expected Result:
+The task toggles between complete and incomplete states.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+Test Case 4: Deleting a Task
+Test Case ID: TC04
+Title: Verify that a task can be deleted.
+
+Description: Ensure users can remove a task from the list.
+
+Preconditions:
+
+At least one task is present in the list.
+Steps to Execute:
+
+Hover over a task.
+Click the "Delete" icon (if available).
+Confirm the deletion (if applicable).
+Expected Result:
+The task is removed from the list.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+Test Case 5: Reordering Tasks
+Test Case ID: TC05
+Title: Verify that tasks can be reordered.
+
+Description: Ensure users can rearrange tasks in the desired order.
+
+Preconditions:
+
+Multiple tasks are present in the list.
+Steps to Execute:
+
+Click and drag a task to a new position in the list.
+Drop the task in the desired position.
+Expected Result:
+The task moves to the new position, and the updated order is displayed.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+Test Case 6: Data Persistence
+Test Case ID: TC06
+Title: Verify that tasks persist across sessions.
+
+Description: Ensure tasks remain in the list after refreshing the browser or reopening the site.
+
+Preconditions:
+
+Add tasks to the list.
+Steps to Execute:
+
+Close the browser or refresh the page.
+Reopen the to-do list application.
+Expected Result:
+Previously added tasks remain in the list.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+Test Case 7: Clearing All Tasks
+Test Case ID: TC07
+Title: Verify that all tasks can be cleared at once.
+
+Description: Ensure users can remove all tasks in one action.
+
+Preconditions:
+
+Add multiple tasks to the list.
+Steps to Execute:
+
+Click the "Clear All" button (if available).
+Confirm the action (if applicable).
+Expected Result:
+All tasks are removed from the list.
+
+Actual Result:
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
+
+
+Funkcijos svetainėje https://todolist.james.am/
+Identifikavus pagrindines svetainės funkcijas, pateikiamos šios galimybės:
+
+Naujos užduoties pridėjimas
+Vartotojai gali pridėti užduotis į sąrašą.
+Užduoties redagavimas
+Vartotojai gali atnaujinti esamos užduoties pavadinimą ar aprašymą.
+Užduoties pažymėjimas kaip atliktos/neatliktos
+Vartotojai gali keisti užduoties būseną.
+Užduoties ištrynimas
+Vartotojai gali pašalinti užduotį iš sąrašo.
+Užduočių pertvarkymas
+Vartotojai gali keisti užduočių eiliškumą.
+Duomenų išsaugojimas lokaliai
+Užduotys išsaugomos naršyklėje ir neišnyksta po perkrovimo.
+Visų užduočių išvalymas
+Vartotojai gali išvalyti visą sąrašą vienu veiksmu.
+Testavimo atvejai kiekvienai funkcijai
+Testavimo atvejis 1: Naujos užduoties pridėjimas
+Testavimo ID: TC01
+Pavadinimas: Patikrinti, ar galima pridėti naują užduotį.
+
+Aprašymas: Užtikrinti, kad vartotojas gali pridėti užduotį į sąrašą.
+
+Išankstinės sąlygos:
+
+Atidaryta užduočių sąrašo svetainė.
+Veiksmai:
+
+Įrašyti tekstą į „Pridėti užduotį“ laukelį.
+Paspausti „Enter“ arba „Pridėti“ mygtuką.
+Laukiamas rezultatas:
+Užduotis pasirodo sąraše.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+Testavimo atvejis 2: Užduoties redagavimas
+Testavimo ID: TC02
+Pavadinimas: Patikrinti, ar galima redaguoti esamą užduotį.
+
+Aprašymas: Užtikrinti, kad vartotojas gali atnaujinti užduoties turinį.
+
+Išankstinės sąlygos:
+
+Sąraše yra bent viena užduotis.
+Veiksmai:
+
+Dukart spustelėti užduotį sąraše.
+Pakeisti užduoties tekstą.
+Paspausti „Enter“ arba spustelėti už sąrašo ribų, kad išsaugotumėte pakeitimus.
+Laukiamas rezultatas:
+Užduotis atnaujinama su nauju tekstu.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+Testavimo atvejis 3: Užduoties pažymėjimas kaip atliktos/neatliktos
+Testavimo ID: TC03
+Pavadinimas: Patikrinti, ar galima užduotį pažymėti kaip atliktą arba neatliktą.
+
+Aprašymas: Užtikrinti, kad vartotojas gali keisti užduoties būseną.
+
+Išankstinės sąlygos:
+
+Sąraše yra bent viena užduotis.
+Veiksmai:
+
+Spustelėti varnelės ikoną šalia užduoties.
+Patikrinti, ar užduotis pažymėta kaip atlikta (pvz., su perbraukimu).
+Dar kartą spustelėti varnelę, kad pažymėtumėte užduotį kaip neatliktą.
+Laukiamas rezultatas:
+Užduoties būsena keičiasi tarp atliktos ir neatliktos.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+Testavimo atvejis 4: Užduoties ištrynimas
+Testavimo ID: TC04
+Pavadinimas: Patikrinti, ar galima ištrinti užduotį.
+
+Aprašymas: Užtikrinti, kad vartotojas gali pašalinti užduotį iš sąrašo.
+
+Išankstinės sąlygos:
+
+Sąraše yra bent viena užduotis.
+Veiksmai:
+
+Užnešti pelės žymeklį ant užduoties.
+Spustelėti „Ištrinti“ ikoną.
+Patvirtinti ištrynimą (jei reikalinga).
+Laukiamas rezultatas:
+Užduotis pašalinama iš sąrašo.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+Testavimo atvejis 5: Užduočių pertvarkymas
+Testavimo ID: TC05
+Pavadinimas: Patikrinti, ar galima pakeisti užduočių eiliškumą.
+
+Aprašymas: Užtikrinti, kad vartotojas gali pertvarkyti užduotis.
+
+Išankstinės sąlygos:
+
+Sąraše yra kelios užduotys.
+Veiksmai:
+
+Spustelėti ir vilkti užduotį į naują vietą sąraše.
+Paleisti užduotį pasirinktoje vietoje.
+Laukiamas rezultatas:
+Užduotis perkelta į naują vietą.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+Testavimo atvejis 6: Duomenų išsaugojimas lokaliai
+Testavimo ID: TC06
+Pavadinimas: Patikrinti, ar užduotys išlieka po sesijos.
+
+Aprašymas: Užtikrinti, kad užduotys liktų sąraše po puslapio atnaujinimo arba svetainės uždarymo.
+
+Išankstinės sąlygos:
+
+Į sąrašą pridėtos kelios užduotys.
+Veiksmai:
+
+Uždaryti naršyklės langą arba atnaujinti puslapį.
+Dar kartą atidaryti užduočių sąrašo svetainę.
+Laukiamas rezultatas:
+Anksčiau pridėtos užduotys lieka sąraše.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+Testavimo atvejis 7: Visų užduočių išvalymas
+Testavimo ID: TC07
+Pavadinimas: Patikrinti, ar galima išvalyti visas užduotis vienu veiksmu.
+
+Aprašymas: Užtikrinti, kad vartotojas gali ištrinti visas užduotis.
+
+Išankstinės sąlygos:
+
+Į sąrašą pridėtos kelios užduotys.
+Veiksmai:
+
+Spustelėti „Išvalyti viską“ mygtuką (jei yra).
+Patvirtinti veiksmą (jei reikalinga).
+Laukiamas rezultatas:
+Visos užduotys pašalinamos iš sąrašo.
+
+Faktinis rezultatas:
+[Palikti tuščią testerio pildymui]
+
+Būsena:
+[Pavyko/Nepavyko/Blokuota]
+
+
+
